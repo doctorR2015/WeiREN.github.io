@@ -10,6 +10,8 @@ redirect_from:
 
 Dr. Wei REN is Postdoc Fellow at Department of Computer Science, City University of Hong Kong. 
 
+Dr. Wei REN received a B.S. degree in  Measurement, Control Technology and Instruments from Tsinghua University (THU), Beijing, China, in July, 2015. He received a PhD degree in Information and Communication Engineering from Beijing Institute of Technology supervised by Prof. Quanhua Liu (https://radar.bit.edu.cn/szdw/jsfc/gjjrc/7a076c3d6a0042279d6804ed128e9c8b.htm) and Prof. Erke Mao (https://radar.bit.edu.cn/szdw/jsfc/ys/0ece10fa1a6f42cab3b578385a295524.htm) in Dec., 2021. He was also a visiting PhD student with Department of Electrical Engineering and Computer Science, The University of Tennessee, Knoxville (UTK) from 2019 to 2020, supervised by Prof. Aly E. Fathy (https://microwave.utk.edu/people/aly-fathy/).
+
 A data-driven personal website
 ======
 Like many other Jekyll-based GitHub Pages templates, Academic Pages makes you separate the website's content from its form. The content & metadata of your website are in structured markdown files, while various other files constitute the theme, specifying how to transform that content & metadata into HTML pages. You keep these various markdown (.md), YAML (.yml), HTML, and CSS files in a public GitHub repository. Each time you commit and push an update to the repository, the [GitHub pages](https://pages.github.com/) service creates static HTML pages based on these files, which are hosted on GitHub's servers free of charge.

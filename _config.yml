@@ -22,19 +22,19 @@ repository               : "doctorR2015/WeiREN.github.io"
 author:
   # Biographic information
   avatar           : "Wei_REN.jpg"
-  name             : "Your Sidebar Name"
+  name             : "Wei REN"
   pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
-  employer         : "Red Brick University"
+  bio              : "Postdoc Fellow at The Hong Kong Polytechnic University. Radar  waveform design and signal processing."
+  location         : "Hong Kong SAR, China"
+  employer         : "The Hong Kong Polytechnic University"
   uri              : # URL
-  email            : "none@example.org" 
+  email            : "weiren_thu@163.com" 
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
-  googlescholar    : "https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
+  googlescholar    : "https://scholar.google.com/citations?user=dLEmmNcAAAAJ&hl=en&oi=sra"
   impactstory      : # URL
-  orcid            : "http://orcid.org/yourorcidurl"
+  orcid            : "https://orcid.org/my-orcid?orcid=0000-0001-7920-0256"
   semantic         : # URL
   pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   researchgate     : # URL

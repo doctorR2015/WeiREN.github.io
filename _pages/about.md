@@ -24,6 +24,7 @@ Latest News
 
 Publications
 ======
+<sup>*</sup> means corresponding author
 ### Wireless Human Sensing
 - [Noncontact Multi-Point Vital Sign Monitoring With mmWave MIMO Radar](https://arxiv.org/abs/2411.09201), **Wei Ren**, Jiannong Cao, Huansheng Yi, Kaiyue Hou, Miaoyang Hu, Jianqi Wang, Fugui Qi, ***IEEE Transactions on Microwave Theory and Techniques (TMTT)***, 2024. (Accepted)
 - [Tracking-Aided Respiration Detection Using Radar During Large-Scale Body Movements](https://ieeexplore.ieee.org/abstract/document/10159563), **Wei Ren**, Huizi Han, Shaoqiang Chang, Quanhua Liu, ***IEEE Sensors Journal***, 2023.

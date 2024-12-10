@@ -34,7 +34,7 @@ Publications
 
 ### Radar Waveform Design ###
 - [Design of Polyphase Sequence Sets with Good Correlation Properties under Spectral Distortion via Majorization-Minimization Framework](https://www.sciencedirect.com/science/article/abs/pii/S1051200423003792), Changjie Wang, Hao Zhang, **Wei Ren<sup>*</sup>**, Quanhua Liu, ***Digital Signal Processing (DSP)***, 2024
-- [Design of Polyphase Sequences With Low Integrated Sidelobe Level for Radars With Spectral Distortion via Majorization-Minimization Framework](https://ieeexplore.ieee.org/abstract/document/9469031), Liu Quanhua, **Wei Ren<sup>*</sup>**, Kaiyue Hou, Teng Long, and Aly E. Fathy, ***IEEE Transactions on Aerospace and Electronic Systems (TAES)***, 2021
+- [Design of Polyphase Sequences With Low Integrated Sidelobe Level for Radars With Spectral Distortion via Majorization-Minimization Framework](https://ieeexplore.ieee.org/abstract/document/9469031), Quanhua Liu, **Wei Ren<sup>*</sup>**, Kaiyue Hou, Teng Long, and Aly E. Fathy, ***IEEE Transactions on Aerospace and Electronic Systems (TAES)***, 2021
 - [Greedy Code Search Based Memetic Algorithm for the Design of Orthogonal Polyphase Code Sets](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=8620237), **Wei Ren**, Honggang Zhang, Quanhua Liu, and Yi Yang, ***IEEE Access***, 2019.
 
 ### Interference and clutter suppression ###

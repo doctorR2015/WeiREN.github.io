@@ -26,19 +26,19 @@ Publications
 ======
 <sup>*</sup> means corresponding author
 ### Wireless Human Sensing
-- [Noncontact Multi-Point Vital Sign Monitoring With mmWave MIMO Radar](https://arxiv.org/abs/2411.09201),  <br /> **Wei Ren**, Jiannong Cao, Huansheng Yi, Kaiyue Hou, Miaoyang Hu, Jianqi Wang, Fugui Qi \ ***IEEE Transactions on Microwave Theory and Techniques (TMTT)***, 2024. (Accepted)
-- [Tracking-Aided Respiration Detection Using Radar During Large-Scale Body Movements](https://ieeexplore.ieee.org/abstract/document/10159563), **Wei Ren**, Huizi Han, Shaoqiang Chang, Quanhua Liu, ***IEEE Sensors Journal***, 2023.
-- [Vital Sign Detection in Any Orientation Using a Distributed Radar Network via Modified Independent Component Analysis](https://ieeexplore.ieee.org/abstract/document/9527072), **Wei Ren**, Fugui Qi, Farnaz Foroughian, Tsotne Kvelashvili, Quanhua Liu, Ozlem Kilic, Teng Long, and Aly E. Fathy, ***IEEE Transactions on Microwave Theory and Techniques (TMTT)***, 2021.
+- [Noncontact Multi-Point Vital Sign Monitoring With mmWave MIMO Radar](https://arxiv.org/abs/2411.09201)  <br /> **Wei Ren**, Jiannong Cao, Huansheng Yi, Kaiyue Hou, Miaoyang Hu, Jianqi Wang, Fugui Qi <br /> ***IEEE Transactions on Microwave Theory and Techniques (TMTT)***, 2024. (Accepted)
+- [Tracking-Aided Respiration Detection Using Radar During Large-Scale Body Movements](https://ieeexplore.ieee.org/abstract/document/10159563) <br /> **Wei Ren**, Huizi Han, Shaoqiang Chang, Quanhua Liu <br /> ***IEEE Sensors Journal***, 2023.
+- [Vital Sign Detection in Any Orientation Using a Distributed Radar Network via Modified Independent Component Analysis](https://ieeexplore.ieee.org/abstract/document/9527072) <br /> **Wei Ren** Fugui Qi, Farnaz Foroughian, Tsotne Kvelashvili, Quanhua Liu, Ozlem Kilic, Teng Long, and Aly E. Fathy <br /> ***IEEE Transactions on Microwave Theory and Techniques (TMTT)***, 2021.
 - 
 
 
 ### Radar Waveform Design ###
-- [Design of Polyphase Sequence Sets with Good Correlation Properties under Spectral Distortion via Majorization-Minimization Framework](https://www.sciencedirect.com/science/article/abs/pii/S1051200423003792), Changjie Wang, Hao Zhang, **Wei Ren<sup>*</sup>**, Quanhua Liu, ***Digital Signal Processing (DSP)***, 2024
-- [Design of Polyphase Sequences With Low Integrated Sidelobe Level for Radars With Spectral Distortion via Majorization-Minimization Framework](https://ieeexplore.ieee.org/abstract/document/9469031), Quanhua Liu, **Wei Ren<sup>*</sup>**, Kaiyue Hou, Teng Long, and Aly E. Fathy, ***IEEE Transactions on Aerospace and Electronic Systems (TAES)***, 2021
-- [Greedy Code Search Based Memetic Algorithm for the Design of Orthogonal Polyphase Code Sets](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=8620237), **Wei Ren**, Honggang Zhang, Quanhua Liu, and Yi Yang, ***IEEE Access***, 2019.
+- [Design of Polyphase Sequence Sets with Good Correlation Properties under Spectral Distortion via Majorization-Minimization Framework](https://www.sciencedirect.com/science/article/abs/pii/S1051200423003792) <br /> Changjie Wang, Hao Zhang, **Wei Ren<sup>*</sup>**, Quanhua Liu <br /> ***Digital Signal Processing (DSP)***, 2024
+- [Design of Polyphase Sequences With Low Integrated Sidelobe Level for Radars With Spectral Distortion via Majorization-Minimization Framework](https://ieeexplore.ieee.org/abstract/document/9469031) <br /> Quanhua Liu, **Wei Ren<sup>*</sup>**, Kaiyue Hou, Teng Long, and Aly E. Fathy <br /> ***IEEE Transactions on Aerospace and Electronic Systems (TAES)***, 2021
+- [Greedy Code Search Based Memetic Algorithm for the Design of Orthogonal Polyphase Code Sets](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=8620237) <br /> **Wei Ren**, Honggang Zhang, Quanhua Liu, and Yi Yang <br /> ***IEEE Access***, 2019.
 
 ### Interference and clutter suppression ###
-- [Improving Range Ambiguity Suppression in Pulse-Doppler Radar Systems with Nonlinear Processing and Joint Reversible Mismatch Filtering](https://ieeexplore.ieee.org/abstract/document/10266747), Yuanshuai Li, **Wei Ren<sup>*</sup>**, Fawei Yang, Kaixiang Zhang, Quanhua Liu, Aly E. Fathy, ***IEEE Transactions on Radar Systems***, 2023
+- [Improving Range Ambiguity Suppression in Pulse-Doppler Radar Systems with Nonlinear Processing and Joint Reversible Mismatch Filtering](https://ieeexplore.ieee.org/abstract/document/10266747) <br /> Yuanshuai Li, **Wei Ren<sup>*</sup>**, Fawei Yang, Kaixiang Zhang, Quanhua Liu, Aly E. Fathy <br /> ***IEEE Transactions on Radar Systems***, 2023
 
 A data-driven personal website
 ======

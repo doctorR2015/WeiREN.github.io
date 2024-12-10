@@ -26,11 +26,15 @@ Publications
 ======
 ### Wireless Human Sensing
 - [Noncontact Multi-Point Vital Sign Monitoring With mmWave MIMO Radar](https://arxiv.org/abs/2411.09201), **Wei Ren**, Jiannong Cao, Huansheng Yi, Kaiyue Hou, Miaoyang Hu, Jianqi Wang, Fugui Qi, ***IEEE Transactions on Microwave Theory and Techniques (TMTT)***, 2024. (Accepted)
-- [Design of Polyphase Sequence Sets with Good Correlation Properties under Spectral Distortion via Majorization-Minimization Framework](https://www.sciencedirect.com/science/article/abs/pii/S1051200423003792), Changjie Wang, Hao Zhang, **Wei Ren**, Quanhua Liu, ***Digital Signal Processing (DSP)***, 2024
+- [Tracking-Aided Respiration Detection Using Radar During Large-Scale Body Movements](https://ieeexplore.ieee.org/abstract/document/10159563), **Wei Ren**, Huizi Han, Shaoqiang Chang, Quanhua Liu, ***IEEE Sensors Journal***, 2023.
+- 
+
 
 ### Radar Waveform Design ###
-- esign of Polyphase Sequence Sets with Good
-Correlation Properties under Spectral Distortion via Majorization-Minimization Framework
+- [Design of Polyphase Sequence Sets with Good Correlation Properties under Spectral Distortion via Majorization-Minimization Framework](https://www.sciencedirect.com/science/article/abs/pii/S1051200423003792), Changjie Wang, Hao Zhang, **Wei Ren**, Quanhua Liu, ***Digital Signal Processing (DSP)***, 2024
+
+### Interference and clutter suppression ###
+- [Improving Range Ambiguity Suppression in Pulse-Doppler Radar Systems with Nonlinear Processing and Joint Reversible Mismatch Filtering](https://ieeexplore.ieee.org/abstract/document/10266747), Yuanshuai Li, **Wei Ren**, Fawei Yang, Kaixiang Zhang, Quanhua Liu, Aly E. Fathy, ***IEEE Transactions on Radar Systems***, 2023
 
 A data-driven personal website
 ======

@@ -31,10 +31,10 @@ Publications
 
 
 ### Radar Waveform Design ###
-- [Design of Polyphase Sequence Sets with Good Correlation Properties under Spectral Distortion via Majorization-Minimization Framework](https://www.sciencedirect.com/science/article/abs/pii/S1051200423003792), Changjie Wang, Hao Zhang, **Wei Ren**<sup>*</sup>, Quanhua Liu, ***Digital Signal Processing (DSP)***, 2024
+- [Design of Polyphase Sequence Sets with Good Correlation Properties under Spectral Distortion via Majorization-Minimization Framework](https://www.sciencedirect.com/science/article/abs/pii/S1051200423003792), Changjie Wang, Hao Zhang, **Wei Ren<sup>*</sup>**, Quanhua Liu, ***Digital Signal Processing (DSP)***, 2024
 
 ### Interference and clutter suppression ###
-- [Improving Range Ambiguity Suppression in Pulse-Doppler Radar Systems with Nonlinear Processing and Joint Reversible Mismatch Filtering](https://ieeexplore.ieee.org/abstract/document/10266747), Yuanshuai Li, **Wei Ren**<sup>*</sup>, Fawei Yang, Kaixiang Zhang, Quanhua Liu, Aly E. Fathy, ***IEEE Transactions on Radar Systems***, 2023
+- [Improving Range Ambiguity Suppression in Pulse-Doppler Radar Systems with Nonlinear Processing and Joint Reversible Mismatch Filtering](https://ieeexplore.ieee.org/abstract/document/10266747), Yuanshuai Li, **Wei Ren<sup>*</sup>**, Fawei Yang, Kaixiang Zhang, Quanhua Liu, Aly E. Fathy, ***IEEE Transactions on Radar Systems***, 2023
 
 A data-driven personal website
 ======

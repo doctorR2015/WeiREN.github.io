@@ -25,7 +25,12 @@ Latest News
 Publications
 ======
 ### Wireless Human Sensing
-- [Noncontact Multi-Point Vital Sign Monitoring With mmWave MIMO Radar](https://arxiv.org/abs/2411.09201), **Wei Ren**, Jiannong Cao, Huansheng Yi, Kaiyue Hou, Miaoyang Hu, Jianqi Wang, Fugui Qi, ***IEEE Transactions on Microwave Theory and Techniques (TMTT)***, 2024.
+- [Noncontact Multi-Point Vital Sign Monitoring With mmWave MIMO Radar](https://arxiv.org/abs/2411.09201), **Wei Ren**, Jiannong Cao, Huansheng Yi, Kaiyue Hou, Miaoyang Hu, Jianqi Wang, Fugui Qi, ***IEEE Transactions on Microwave Theory and Techniques (TMTT)***, 2024. (Accepted)
+- [Design of Polyphase Sequence Sets with Good Correlation Properties under Spectral Distortion via Majorization-Minimization Framework](https://www.sciencedirect.com/science/article/abs/pii/S1051200423003792), Changjie Wang, Hao Zhang, **Wei Ren**, Quanhua Liu, ***Digital Signal Processing (DSP)***, 2024
+
+### Radar Waveform Design ###
+- esign of Polyphase Sequence Sets with Good
+Correlation Properties under Spectral Distortion via Majorization-Minimization Framework
 
 A data-driven personal website
 ======

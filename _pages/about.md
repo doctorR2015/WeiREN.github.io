@@ -32,7 +32,7 @@ Publications
 - [Contactless Vital-Sign Monitoring of Construction Machinery Operators Using Millimeter-Wave Technology](https://ascelibrary.org/doi/abs/10.1061/JCEMD4.COENG-14834) <br />   Jia Wang, Heng Li, Shuai Han, Guangbin Wang, and **Wei Ren** <br /> ***Journal of Construction Engineering and Management***, 2025
 - [MmDrive: Fine-grained Fatigue Driving Detection Using mmWave Radar](https://dl.acm.org/doi/10.1145/3614437) <br /> Zhu Juncen, Jiannong Cao, Yanni Yang, **Wei Ren**, Huizi Han <br /> ***ACM Transactions on Internet of Things***, 2023
 - [Four-Dimensional (4D) Millimeter Wave-Based Sensing and Its Potential Applications in Digital Construction: A Review](https://www.mdpi.com/2075-5309/13/6/1454) <br /> Shuai Han, Jiawen Zhang, Zeeshan Shahid Shaikh, Jia Wang, **Wei Ren** <br /> ***Buildings***, 2023
-  
+- [FMCW 毫米波雷达多人呼吸检测方法](https://signal.ejournal.org.cn/article/doi/10.16798/j.issn.1003-0530.2021.09.002) <br /> **任伟**, 侯凯悦, 王刚, 刘泉华 <br /> **信号处理**， 2021
 
 ### Radar Waveform Design ###
 - [Design of Polyphase Sequence Sets with Good Correlation Properties under Spectral Distortion via Majorization-Minimization Framework](https://www.sciencedirect.com/science/article/abs/pii/S1051200423003792) <br /> Changjie Wang, Hao Zhang, **Wei Ren<sup>*</sup>**, Quanhua Liu <br /> ***Digital Signal Processing (DSP)***, 2024

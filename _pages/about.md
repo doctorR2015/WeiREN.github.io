@@ -35,7 +35,7 @@ Publications
 - [FMCW 毫米波雷达多人呼吸检测方法](https://signal.ejournal.org.cn/article/doi/10.16798/j.issn.1003-0530.2021.09.002) <br /> **任伟**, 侯凯悦, 王刚, 刘泉华 <br /> **信号处理**， 2021
 
 ### Radar Waveform Design ###
-- [Design of Polyphase Sequence Sets with Good Correlation Properties under Spectral Distortion via Majorization-Minimization Framework](https://www.sciencedirect.com/science/article/abs/pii/S1051200423003792) <br /> Changjie Wang, Hao Zhang, **Wei Ren<sup>*</sup>**, Quanhua Liu <br /> ***Digital Signal Processing (DSP)***, 2024
+- [Design of Polyphase Sequence Sets with Good Correlation Properties under Spectral Distortion via Majorization-Minimization Framework](https://www.sciencedirect.com/science/article/abs/pii/S1051200423003792) <br /> Changjie Wang, Hao Zhang, **Wei Ren**<sup>*</sup>, Quanhua Liu <br /> ***Digital Signal Processing (DSP)***, 2024
 - [Design of Polyphase Sequences With Low Integrated Sidelobe Level for Radars With Spectral Distortion via Majorization-Minimization Framework](https://ieeexplore.ieee.org/abstract/document/9469031) <br /> Quanhua Liu, **Wei Ren<sup>*</sup>**, Kaiyue Hou, Teng Long, and Aly E. Fathy <br /> ***IEEE Transactions on Aerospace and Electronic Systems (TAES)***, 2021
 - [Greedy Code Search Based Memetic Algorithm for the Design of Orthogonal Polyphase Code Sets](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=8620237) <br /> **Wei Ren**, Honggang Zhang, Quanhua Liu, and Yi Yang <br /> ***IEEE Access***, 2019.
 - [Phase-coded Waveform Design in the Presence of Chopping and Interleaving Jamming](https://ieeexplore.ieee.org/document/9824083) <br /> Lu Zhang, **Wei Ren**, Dezhi Tian, Shaoqiang Chang, Quanhua Liu <br /> ***2022 IEEE 5th International Conference on Electronics Technology (ICET)***, 2022

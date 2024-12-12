@@ -15,7 +15,7 @@ Education
 * Visiting Ph.D in Department of Electrical Engineering and Computer Science, **The Univeristy of Tennessee, Knoxville (UTK)**, U.S., Oct. 2019-Oct. 2020
 * B.S. in Measurement and Control Technology and Instruments, **Tsinghua Univeristy (THU)**, Beijing, China, Aug. 2011-July 2015
 
-Work experience
+Professional Experience
 ======
 * Spring 2024: Academic Pages Collaborator
   * Github University

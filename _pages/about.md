@@ -29,10 +29,10 @@ Publications
 - [Noncontact Multi-Point Vital Sign Monitoring With mmWave MIMO Radar](https://arxiv.org/abs/2411.09201)  <br /> **Wei Ren**, Jiannong Cao, Huansheng Yi, Kaiyue Hou, Miaoyang Hu, Jianqi Wang, Fugui Qi <br /> ***IEEE Transactions on Microwave Theory and Techniques (TMTT)***, 2024. (Accepted)
 - [Tracking-Aided Respiration Detection Using Radar During Large-Scale Body Movements](https://ieeexplore.ieee.org/abstract/document/10159563) <br /> **Wei Ren**, Huizi Han, Shaoqiang Chang, Quanhua Liu <br /> ***IEEE Sensors Journal***, 2023.
 - [Vital Sign Detection in Any Orientation Using a Distributed Radar Network via Modified Independent Component Analysis](https://ieeexplore.ieee.org/abstract/document/9527072) <br /> **Wei Ren** Fugui Qi, Farnaz Foroughian, Tsotne Kvelashvili, Quanhua Liu, Ozlem Kilic, Teng Long, and Aly E. Fathy <br /> ***IEEE Transactions on Microwave Theory and Techniques (TMTT)***, 2021.
+- [Contactless Vital-Sign Monitoring of Construction Machinery Operators Using Millimeter-Wave Technology](https://ascelibrary.org/doi/abs/10.1061/JCEMD4.COENG-14834) <br />   Jia Wang, Heng Li, Shuai Han, Guangbin Wang, and **Wei Ren** <br /> ***Journal of Construction Engineering and Management***, 2025
 - [MmDrive: Fine-grained Fatigue Driving Detection Using mmWave Radar](https://dl.acm.org/doi/10.1145/3614437) <br /> Zhu Juncen, Jiannong Cao, Yanni Yang, **Wei Ren**, Huizi Han <br /> ***ACM Transactions on Internet of Things***, 2023
 - [Four-Dimensional (4D) Millimeter Wave-Based Sensing and Its Potential Applications in Digital Construction: A Review](https://www.mdpi.com/2075-5309/13/6/1454) <br /> Shuai Han, Jiawen Zhang, Zeeshan Shahid Shaikh, Jia Wang, **Wei Ren** <br /> ***Buildings***, 2023
-- 
-
+  
 
 ### Radar Waveform Design ###
 - [Design of Polyphase Sequence Sets with Good Correlation Properties under Spectral Distortion via Majorization-Minimization Framework](https://www.sciencedirect.com/science/article/abs/pii/S1051200423003792) <br /> Changjie Wang, Hao Zhang, **Wei Ren<sup>*</sup>**, Quanhua Liu <br /> ***Digital Signal Processing (DSP)***, 2024

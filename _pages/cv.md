@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Background"
+title: "CV"
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -11,9 +11,9 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* Ph.D in Information and Communication Engineering, Beijing Institute of Technology, Beijing, China, Sep. 2015-Dec. 2021
+* Visiting Ph.D in Department of Electrical Engineering and Computer Science, The Univeristy of Tennessee, Knoxville, U.S., Oct. 2019-Oct. 2020
+* B.S. in Measurement and Control Technology and Instruments, Tsinghua Univeristy, Beijing, China, Aug. 2011-July 2015
 
 Work experience
 ======

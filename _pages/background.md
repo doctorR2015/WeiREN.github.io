@@ -1,6 +1,6 @@
 ---
 permalink: /background/
-title: "Education"
+title: "Background"
 author_profile: true
 redirect_from: 
   - /background/

@@ -11,9 +11,9 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Information and Communication Engineering, **Beijing Institute of Technology (BIT)**, Beijing, China, Sep. 2015-Dec. 2021
-* Visiting Ph.D in Department of Electrical Engineering and Computer Science, **The Univeristy of Tennessee, Knoxville (UTK)**, U.S., Oct. 2019-Oct. 2020
-* B.S. in Measurement and Control Technology and Instruments, **Tsinghua Univeristy (THU)**, Beijing, China, Aug. 2011-July 2015
+* 2015.09-2021.12, Ph.D in Information and Communication Engineering, **Beijing Institute of Technology (BIT)**, Beijing, China
+* 2019.10-2020.10, Visiting Ph.D in Department of Electrical Engineering and Computer Science, **The Univeristy of Tennessee, Knoxville (UTK)**, U.S.
+* 2011.08-2015.07, B.S. in Measurement and Control Technology and Instruments, **Tsinghua Univeristy (THU)**, Beijing, China
 
 Professional Experience
 ======

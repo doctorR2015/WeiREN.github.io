@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-
+ 
 - **2022**, China Robotics and Artificial Intelligence Competition, National Finals, First Prize (4/515)  
 - **2022**, China Robotics and Artificial Intelligence Competition, Beijing Region, First Prize  
 - **2021**, Excellent Student Award  

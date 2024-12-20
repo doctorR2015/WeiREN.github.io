@@ -10,16 +10,13 @@ main:
 
   - title: "Talks"
     url: /talks/    
-
+ 
   - title: "Professional Services"
     url: /professional-services/    
     
   - title: "Portfolio"
     url: /portfolio/
         
-#  - title: "Blog Posts"
-#    url: /year-archive/
-    
   - title: "Background"
     url: /background/
     

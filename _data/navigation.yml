@@ -14,11 +14,10 @@ main:
   - title: "Professional Services"
     url: /professional-services/    
     
-  - title: "Portfolio"
-    url: /portfolio/
+  - title: "Awards"
+    url: /awards/
         
   - title: "Background"
     url: /background/
     
-  - title: "Guide"
-    url: /markdown/
+

@@ -1,6 +1,6 @@
 ---
 permalink: /talks/
-title: "Talks"
+title: "Presentations and Invited Talks"
 author_profile: true
 redirect_from: 
   - /talks/
@@ -9,7 +9,6 @@ redirect_from:
 
 {% include base_path %}
 
-Presentations and Invited Talks
 ======
 * **2024.11**, Non-Contact Vital Sign Monitoring of High DoF individuals. Shenzhen University 
 * **2022**, Research on High DoF Human Vital Signs Detection Technology, Journal of Radars

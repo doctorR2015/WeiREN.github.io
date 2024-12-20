@@ -17,22 +17,8 @@ Education
 
 Professional Experience
 ======
-- **The Hong Kong Polytechnic University**   *Hong Kong*  
-  *Postdoc Fellow (Advisor: Prof. Jiannong Cao)*  
-  - **Topic**: Wireless human sensing with mmWave radar  
-  *Aug 2022–Aug 2024*
-
-- **Beijing Institute of Technology**    *Beijing, China*  
-  *Postdoc Fellow (Advisor: Prof. Quanhua Liu)*  
-  - **Topic**: Multi-person vital sign monitoring with MIMO radar  
-  *Dec 2021–Aug 2022*
-
-- **University of Tennessee, Knoxville**    *Knoxville, TN, U.S.*  
-  *Visiting Scholar (Advisor: Prof. Aly E. Fathy)*  
-  - **Topic**: Human vital sign detection for subjects in any orientation  
-  *Oct 2019–Oct 2020*
-
-- **Beijing Institute of Technology**    *Beijing, China*  
-  *Teaching Assistant (Course: Introduction to Radar System (English))*  
-  *Sep 2017–Jan 2018, Sep 2018–Jan 2019*
+* 2022.08-2024.08, Postdoc Fellow, The Hong Kong Polytechnic University, Hong Kong. Advisor: Prof. Jiannong Cao
+* 2021.12-2022.08, Postdoc Fellow, Beijing Institute of Technology, Beijing, China, Advisor: Prof. Quanhua Liu
+* 2018.09-2019.01, Teaching Assistant, Beijing Institute of Technology, Beijing, China
+* 2017.09-2018.01, Teaching Assistant, Beijing Institute of Technology, Beijing, China
 

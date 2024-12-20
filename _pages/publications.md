@@ -28,7 +28,6 @@ redirect_from:
 - [Majorization Minimization Based Memetic Algorithm for Designing Polyphase Sequences with Good Correlation Properties](https://ieeexplore.ieee.org/abstract/document/9173364) <br /> Kaiyue Hou, **Wei Ren**, Quanhua Liu <br /> ***2019 IEEE International Conference on Signal, Information and Data Processing (ICSIDP)***, 2019
 - [Graph Traversal Applied to Search for Optimal Minimum Peak Sidelobe Level Binary Sequences](https://ieeexplore.ieee.org/document/9173089) <br /> Yi Yang, **Wei Ren**, Yuanyuan Song, Hao Li <br /> ***2019 IEEE International Conference on Signal, Information and Data Processing (ICSIDP)***, 2019
 
-- 
 
 ### Interference and clutter suppression ###
 - [Improving Range Ambiguity Suppression in Pulse-Doppler Radar Systems with Nonlinear Processing and Joint Reversible Mismatch Filtering](https://ieeexplore.ieee.org/abstract/document/10266747) <br /> Yuanshuai Li, **Wei Ren<sup>*</sup>**, Fawei Yang, Kaixiang Zhang, Quanhua Liu, Aly E. Fathy <br /> ***IEEE Transactions on Radar Systems***, 2023

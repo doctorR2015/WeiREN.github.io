@@ -17,48 +17,22 @@ Education
 
 Professional Experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * Github University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+- **The Hong Kong Polytechnic University**   *Hong Kong*  
+  *Postdoc Fellow (Advisor: Prof. Jiannong Cao)*  
+  - **Topic**: Wireless human sensing with mmWave radar  
+  *Aug 2022–Aug 2024*
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+- **Beijing Institute of Technology**    *Beijing, China*  
+  *Postdoc Fellow (Advisor: Prof. Quanhua Liu)*  
+  - **Topic**: Multi-person vital sign monitoring with MIMO radar  
+  *Dec 2021–Aug 2022*
 
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-  
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+- **University of Tennessee, Knoxville**    *Knoxville, TN, U.S.*  
+  *Visiting Scholar (Advisor: Prof. Aly E. Fathy)*  
+  - **Topic**: Human vital sign detection for subjects in any orientation  
+  *Oct 2019–Oct 2020*
 
-Publications
-======
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+- **Beijing Institute of Technology**    *Beijing, China*  
+  *Teaching Assistant (Course: Introduction to Radar System (English))*  
+  *Sep 2017–Jan 2018, Sep 2018–Jan 2019*
+

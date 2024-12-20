@@ -15,6 +15,6 @@ Journal Editors
 
 Conference Organization
 ======
-* Session Chair,  IEEE International Conference on Signal, Information and Data Processing (ICSIDP), 2024 (Session: Radar Data and Information Processing) 
+* Session Chair,  IEEE International Conference on Signal, Information and Data Processing ([ICSIDP](https://www.icsidp.org/index.asp)), 2024 (Session: Radar Data and Information Processing) 
 
 

@@ -31,6 +31,7 @@ Reviewers
 - Sensors
 
 ### Conferences:
+- IEEE International Conference on Signal, Information and Data Processing 2024
 - IET International Radar Conference 2018, 2020, & 2023
 - CIE International Conference on Radar 2021
 - IEEE International Conference on Signal, Information and Data Processing 2019
